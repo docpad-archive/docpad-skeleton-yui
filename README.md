@@ -9,8 +9,8 @@ Simple, flexible and clean HTML, CSS, for popular user interface components and 
 1. Clone the project and run the server
 
 	``` bash
-	git clone git://github.com/docpad/twitter-bootstrap.docpad.git
-	cd twitter-bootstrap.docpad
+	git clone git://github.com/MassDistributionMedia/yui-purecss.docpad.git
+	cd yui-purecss.docpad
 	npm install
 	docpad run
 	```
