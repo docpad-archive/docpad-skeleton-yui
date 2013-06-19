@@ -1,0 +1,51 @@
+{
+	"name": "yui-purecss.docpad",
+	"version": "0.0.1",
+	"description": "YUI Purecss skeleton for DocPad. Simple, flexible and clean HTML and CSS for popular user interface components and interactions.",
+	"homepage": "https://github.com/bevry/yui-purecss.docpad",
+	"keywords": [
+		"docpad-skeleton",
+		"docpad",
+		"website",
+		"purecss",
+		"yui purecss"
+	],
+	"author": "Bevry Pty Ltd <us@bevry.me> (http://bevry.me)",
+	"maintainers": [
+		"Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
+	],
+	"contributors": [
+		"Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
+	],
+	"bugs": {
+		"url": "https://github.com/docpad/yui-purecss.docpad/issues"
+	},
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/docpad/yui-purecss.docpad.git"
+	},
+	"engines" : {
+		"node": "0.10",
+		"npm": "1.2"
+	},
+	"dependencies": {
+		"docpad": "6.x",
+		"docpad-plugin-downloader": "2.x",
+		"docpad-plugin-cleanurls": "2.x",
+		"docpad-plugin-coffeescript": "2.x",
+		"docpad-plugin-eco": "2.x",
+		"docpad-plugin-less": "2.x",
+		"docpad-plugin-marked": "2.x",
+		"docpad-plugin-partials": "2.x",
+		"docpad-plugin-related": "2.x",
+		"docpad-plugin-stylus": "2.x",
+		"docpad-plugin-text": "2.x"
+	},
+	"devDependencies": {
+		"docpad-plugin-livereload": "2.x"
+	},
+	"main": "node_modules/docpad/bin/docpad-server",
+	"scripts": {
+		"start": "node_modules/docpad/bin/docpad-server"
+	}
+}
