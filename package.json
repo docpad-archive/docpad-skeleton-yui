@@ -2,7 +2,6 @@
 	"name": "yui-purecss.docpad",
 	"version": "0.0.1",
 	"description": "YUI Purecss skeleton for DocPad. Simple, flexible and clean HTML and CSS for popular user interface components and interactions.",
-	"homepage": "https://github.com/bevry/yui-purecss.docpad",
 	"keywords": [
 		"docpad-skeleton",
 		"docpad",
@@ -10,19 +9,19 @@
 		"purecss",
 		"yui purecss"
 	],
-	"author": "Bevry Pty Ltd <us@bevry.me> (http://bevry.me)",
+	"author": "Mass Distribution Media <mike@mdm.cm> (http://mdm.cm)",
 	"maintainers": [
-		"Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
+		"Michael D Mooring <mike@mdm.cm> (https://github.com/mikeumus)"
 	],
 	"contributors": [
-		"Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
+		"Michael D Mooring <mike@mdm.cm> (https://github.com/mikeumus)"
 	],
 	"bugs": {
-		"url": "https://github.com/docpad/yui-purecss.docpad/issues"
+		"url": "https://github.com/MassDistributionMedia/yui-purecss.docpad/issues"
 	},
 	"repository" : {
 		"type" : "git",
-		"url" : "https://github.com/docpad/yui-purecss.docpad.git"
+		"url" : "https://github.com/MassDistributionMedia/yui-purecss.docpad.git"
 	},
 	"engines" : {
 		"node": "0.10",
