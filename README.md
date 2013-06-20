@@ -1,6 +1,7 @@
 # [YUI Purecss](http://purecss.io/) skeleton for [DocPad](https://github.com/bevry/docpad)
 Simple, flexible and clean HTML, CSS, for popular user interface components and interactions.
 
+![Alt text](https://googledrive.com/host/0B9LVk4xbDIJTSWVYcU5fb0RUVVk/purecss-docpad.png "Screen shot of Purecss landing page template in google chrome on a local docpad server.")
 
 ## Getting Started
 
