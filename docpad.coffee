@@ -89,22 +89,6 @@ docpadConfig = {
 		posts: (database) ->
 			database.findAllLive({tags:$has:'post'}, [date:-1])
 
-
-	# =================================
-	# Plugins
-
-	plugins:
-		downloader:
-			downloads: [
-				{
-					name: 'Twitter Bootstrap'
-					path: 'src/files/vendor/twitter-bootstrap'
-					url: 'https://nodeload.github.com/twitter/bootstrap/tar.gz/master'
-					tarExtractClean: true
-				}
-			]
-
-
 	# =================================
 	# DocPad Events
 
