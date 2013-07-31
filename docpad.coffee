@@ -42,13 +42,12 @@ docpadConfig = {
 			# Styles
 			styles: [
 				"http://yui.yahooapis.com/pure/0.2.0/pure-min.css"
-				"/styles/style.css"
+				"styles/style.css"
 			]
 
 			# Scripts
 			scripts: [
-				"http://use.typekit.net/ajf8ggy.js"
-				"/scripts/script.js"
+				"scripts/script.js"
 			]
 
 
