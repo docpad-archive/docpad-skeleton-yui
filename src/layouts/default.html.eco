@@ -36,10 +36,6 @@
 	<!-- Styles -->
 	<%- @getBlock('styles').add(@site.styles).toHTML() %>
 	
-	<!-- Typekit ajf8ggy.js -->
-	<script>
-    try { Typekit.load(); } catch (e) {}
-	</script>
 </head>
 <body>
 
