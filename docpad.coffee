@@ -46,9 +46,7 @@ docpadConfig = {
 			]
 
 			# Scripts
-			scripts: [
-				"scripts/script.js"
-			]
+			scripts: []
 
 
 
