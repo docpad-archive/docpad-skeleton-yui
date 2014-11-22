@@ -40,4 +40,4 @@ If you are wanting to close-source your website, we'd suggest using the followin
 
 Other included things such as themes and libraries are likely already licensed by their own invidual licenses, so be sure to respect their licenses too.
 
-Thank You. The DocPad & MDM teams love you. <3
+Thank You. The [DocPad](https://docpad.org/) & [MDM](https://github.com/MassDistributionMedia) teams love you. <3
